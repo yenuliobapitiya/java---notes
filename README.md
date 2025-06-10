@@ -95,3 +95,4 @@ This list contains 50 beginner-friendly Java programming problems to improve my 
 - [ ] 48. Create custom exception class
 - [ ] 49. Use `ArrayList` and perform add/remove
 - [ ] 50. Use `HashMap` to store key-value pairs
+
